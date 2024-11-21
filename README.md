@@ -5,8 +5,7 @@
 </div>
 
 ## 🧑‍🔬 Sobre o Projeto
-Este projeto é uma **simulação visual em 3D da deformidade do espaço-tempo**, baseada nos princípios da **Teoria da Relatividade Geral de Einstein**. Ele foi desenvolvido em Python e utiliza bibliotecas para modelagem computacional e visualização científica.
-
+	@@ -10,7 +10,7 @@ Este projeto é uma **simulação visual em 3D da deformidade do espaço-tempo**
 🔍 **Objetivos do Projeto**:
 - Tornar conceitos avançados de física acessíveis por meio de simulações interativas.
 - Mostrar de forma visual como massas deformam o espaço-tempo ao seu redor.
@@ -14,15 +13,7 @@ Este projeto é uma **simulação visual em 3D da deformidade do espaço-tempo**
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-- **Python**: Linguagem principal para desenvolvimento do projeto.
-- **Bibliotecas**:
-  - [`numpy`](https://numpy.org): Para cálculos matemáticos avançados.
-  - [`matplotlib`](https://matplotlib.org): Para visualizações gráficas.
-  - [`vtk`](https://vtk.org): Para renderização e modelagem 3D.
-- **Ferramentas de Simulação**: Algoritmos personalizados para calcular deformações do espaço-tempo.
-
----
+	@@ -26,11 +26,11 @@ Este projeto é uma **simulação visual em 3D da deformidade do espaço-tempo**
 
 ## 🎥 Demonstração
 <div align="center">
@@ -31,16 +22,13 @@ Este projeto é uma **simulação visual em 3D da deformidade do espaço-tempo**
 </div>
 
 > **Nota**: Para assistir à simulação em ação, veja o [vídeo completo aqui](ninjaflex.com).
-
 ---
 
 ## 💡 Funcionalidades
 ✔️ Simulação 3D precisa e interativa.  
 ✔️ Visualização de conceitos teóricos, como *curvatura gravitacional*.  
 ✔️ Modelo escalável para fenômenos mais complexos (*ex.: buracos negros, ondas gravitacionais*).  
-
 ---
-
 ## 🛠️ Como Executar o Projeto
 1. Clone este repositório:
    ```bash
