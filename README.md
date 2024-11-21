@@ -5,7 +5,6 @@
 </div>
 
 ## 🧑‍🔬 Sobre o Projeto
-	@@ -10,7 +10,7 @@ Este projeto é uma **simulação visual em 3D da deformidade do espaço-tempo**
 🔍 **Objetivos do Projeto**:
 - Tornar conceitos avançados de física acessíveis por meio de simulações interativas.
 - Mostrar de forma visual como massas deformam o espaço-tempo ao seu redor.
@@ -13,7 +12,6 @@
 
 ---
 
-	@@ -26,11 +26,11 @@ Este projeto é uma **simulação visual em 3D da deformidade do espaço-tempo**
 
 ## 🎥 Demonstração
 <div align="center">
