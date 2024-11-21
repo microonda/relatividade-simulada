@@ -15,7 +15,7 @@
 
 ## 🎥 Demonstração
 <div align="center">
-    <img src="./massa3.png" alt="Exemplo da Simulação" width="70%">
+    <img src="./massa4.png" alt="Exemplo da Simulação" width="70%">
     <p><i>Visualização da deformidade gerada por uma massa no espaço-tempo.</i></p>
 </div>
 
